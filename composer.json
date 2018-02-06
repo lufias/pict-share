@@ -28,7 +28,7 @@
                 "Lufias\\PictShare\\PictShareServiceProvider"
             ],
             "aliases": {
-                "PictShare": "Lufias\\PictShare\\Facades"
+                "PictShare": "Lufias\\PictShare\\Facades\\PictShare"
             }
 
         }
