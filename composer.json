@@ -2,7 +2,7 @@
     "name": "lufias/pict-share",
     "description": "Interface to PictShare image hosting",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "require": {
         "ixudra/curl": "^6.16"
     },
@@ -30,6 +30,7 @@
             "aliases": {
                 "PictShare": "Lufias\\PictShare\\Facades"
             }
+
         }
     }
 }
