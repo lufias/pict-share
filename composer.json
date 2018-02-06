@@ -2,6 +2,7 @@
     "name": "lufias/pict-share",
     "description": "Interface to PictShare image hosting",
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "ixudra/curl": "^6.16"
     },
