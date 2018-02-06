@@ -18,7 +18,7 @@
         ],
         "psr-4": {
             "App\\": "app/",
-            "Lufias\\PictShare\\": "/src"
+            "Lufias\\PictShare\\": "src/"
         }
     },
     "extra": {
